@@ -1,0 +1,149 @@
+.footer-container{
+    width: 100%;
+    height: max-content;
+    position: relative;
+}
+.footer-img{
+    width: 100%;
+    height: max-content;
+    position: absolute;
+    z-index: 1; 
+}
+.footer-img img{
+    width: 100%;
+}
+.footer-text{
+    width: 100%;
+    height: 240px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 150px;
+}
+.footer-text1{
+    width: 90%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+.footer-logo{
+    width: 32%;
+    height: 150px;
+}
+.footer-ontsgoihesguud{
+    width: 22%;
+    height: 150px;
+}
+.footer-ontsgoihesguud h3{
+    font-weight: 600;
+}
+.footer-tuslamj{
+    width: 23%;
+    height: 150px;
+}
+.footer-tuslamj h3{
+    font-weight: 600;
+}
+.footer-hayag{
+    width: 23%;
+    height: 150px;
+}
+.footer-hayag h3{
+    font-weight: 600;
+}
+.footer-hayag p{
+    color: #fff;
+    margin-top: 20px;
+    font-family: "Commissioner",sans-serif;
+}
+.footer-logo img{
+    margin-top: 40px; 
+    margin-left: 80px; 
+}
+.footer-text1 ul{
+    margin-top: 10px;
+}
+.footer-text1 ul li{
+    color: #fff;
+    padding-top: 10px;
+    font-family: "Commissioner",sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.footer-text1 h3{
+    color: #fff;
+    font-size: 18px;
+    font-family: "Commissioner",sans-serif; 
+}
+.footer-text2{
+    width: 100%;
+    height: 85px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.footer-text2 p{
+    font-family: "Commissioner",sans-serif; 
+}
+.amjilt{
+    width: 30%;
+    height: 85px;
+    padding-left: 50px;
+}
+.amjiltweb{
+    color: #fff;
+    margin-left: 30px;
+}
+.zohiogchiin-erh{
+    color: #fff;
+    font-size: 10px;
+    margin-top: 10px;
+    display: flex;
+    gap: 3px;
+    align-items: center;
+}
+.amjilt2{
+    width: 50%;
+    height: 85px;
+}
+.footer-holboos{
+    width: 700px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.holboosuud2{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+.footer-utasniidugaar{
+    display: flex;
+    color: #fff;
+    font-size: 12px;
+    gap: 15px;
+} 
+.footer-mailhayg{
+    display: flex;
+    color: #fff;
+    font-size: 12px;
+    gap: 15px;
+} 
+.footer-icons{
+    display: flex;
+    color: #fff;
+    gap: 15px;
+    font-size: 20px;
+}
+.shugam3{
+    width: 700px;
+    height: 0.5px;
+    background-color: #fff;
+}
+
+
+
+
+    
+
+

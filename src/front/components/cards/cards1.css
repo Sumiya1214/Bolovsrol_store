@@ -1,0 +1,89 @@
+.cards-container{
+    width: 100%; 
+    padding: 50px;
+}
+.ontsloh-buteegdehuun{
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 50px;
+    padding-left: 570px;
+    font-family: "Commissioner",sans-serif;
+}
+.card-box{
+    width: 200px;
+    height: 350px;
+    border-radius: 20px;
+}
+.card-box-blue{
+    width: 200px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: rgb(69, 69, 184);
+}
+.card-box-img{
+    width: 200px;
+    height: 250px; 
+    overflow: hidden;
+    display: flex;
+    align-items: end;
+    position: relative;
+}
+.card-box-img img{
+    position: absolute;
+    z-index: 1;
+    object-fit: cover;
+}
+.hymdral{
+    width: 130px;
+    height: 25px;
+    background-color: rgb(241, 96, 47);
+    padding-top: 5px;
+    position: absolute;
+    z-index: 2;  
+    padding-left: 10px;
+}
+.hymdral p{
+    color: #fff;
+    font-size: 9px;
+    font-family: "Commissioner",sans-serif;
+}
+.card-box-blue{
+    width: 200px;
+    height: 100px;
+    background-color: #3D5DA8;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.card-box-text{
+    width: 200px;
+    height: 90px;
+    background-color: #F5F5F5;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.card-box-text1{
+    color: black;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-top: 5px;
+    font-weight: 600;
+}
+.card-box-text1 p {
+    font-family: "Commissioner",sans-serif;
+}
+.card-box-text2{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 5px;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(243, 61, 61);
+    font-family: "Commissioner",sans-serif;
+}
+.hymdarsan-une{
+    font-size: 15px;
+    color: rgb(97, 96, 96);
+    text-decoration-line: line-through;
+    padding-top: 5.5px;
+}

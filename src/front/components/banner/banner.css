@@ -1,0 +1,59 @@
+.banner-container{
+    width: 90%;
+}
+.banner{
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.banner-1{
+    width: 100%;
+    padding-left: 60px;
+}
+/* .slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: rgb(199, 88, 88);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: rgb(199, 88, 88);
+    color: #f53e3e;
+    
+    padding: 20px;
+    /* color: blue; */
+/* }
+
+.slick-prev, .slick-next {
+    padding: 20px;
+    color: rgb(199, 88, 88);
+
+    
+} */ 
+.slick-prev{
+    position: absolute;
+    left: 100px !important;
+    z-index: 99;
+    color: black !important;
+    background: url("../img/left-arrow\ 1.png");
+}
+.slick-next{
+    position: absolute;
+    color: black;
+    right: 100px !important;
+    z-index: 99;
+}
+.slick-prev ::before{
+    content: '\276F' !important;
+    font-size: 50px !important;
+    background: url("../img/left-arrow\ 1.png");
+}

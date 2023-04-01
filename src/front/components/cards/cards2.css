@@ -1,0 +1,97 @@
+.cards-container{
+    width: 100%; 
+    padding: 50px;
+}
+.ontsloh-buteegdehuun{
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 50px;
+    padding-left: 540px;
+    font-family: "Commissioner",sans-serif;
+}
+.card-box{
+    width: 200px;
+    height: 350px;
+    border-radius: 20px;
+}
+.card-box-blue{
+    width: 200px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: #3D5DA8;
+}
+.card-box-img2{
+    width: 200px;
+    height: 250px; 
+    overflow: hidden;
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    position: relative;
+}
+.card-box-img img{
+    position: absolute;
+    z-index: 1;
+    object-fit: cover;
+}
+.shine{
+    width: 60px;
+    height: 30px;
+    background-color: #ffffff;
+    position: absolute;
+    z-index: 2; 
+    border-radius: 20px;
+    border: solid 2px #3D5DA8 ;  
+    padding-left: 9px;
+    padding-top: 1.5px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.shine p{
+    color: black;
+    font-size: 14px;
+    font-family: "Commissioner",sans-serif;
+    font-weight: 600;
+
+}
+.card-box-blue{
+    width: 200px;
+    height: 100px;
+    background-color: #3D5DA8;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.card-box-text{
+    width: 200px;
+    height: 90px;
+    background-color: #F5F5F5;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.card-box-text1{
+    color: black;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-top: 5px;
+    font-weight: 600;
+}
+.card-box-text1 p {
+    font-family: "Commissioner",sans-serif;
+}
+.card-box-text2{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 5px;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(243, 61, 61);
+    font-family: "Commissioner",sans-serif;
+}
+.hymdarsan-une{
+    font-size: 15px;
+    color: rgb(97, 96, 96);
+    text-decoration-line: line-through;
+    padding-top: 5.5px;
+
+}

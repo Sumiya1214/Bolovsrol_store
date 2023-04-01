@@ -1,0 +1,22 @@
+.buteegdehuun{
+    width: 100%;
+    height: max-content;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 100px;
+}
+.buteegdehuunii-medeelel{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    gap: 1%;
+}
+.buteegdehuun-img-heseg{
+    width: 50%;
+    height: 656px;
+}
+.buteegdehuun-text-heseg{
+    width: 49%;
+    height: 656px;
+    padding-left: 40px;
+}
